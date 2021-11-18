@@ -1,7 +1,10 @@
 ## cylinder in python numpy-stl
 
-option 1:
-rotate in cylinder class
+## Requirement
+numpy
+numpy-stl
 
-option 2:
-rotate in numpy-stl 
+matplotlib (for debugging only)
+
+##Quick start
+run stl_cylinder.py to generate cylinder in STL format
