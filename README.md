@@ -6,5 +6,5 @@ numpy-stl
 
 matplotlib (for debugging only)
 
-##Quick start
+## Quick start
 run stl_cylinder.py to generate cylinder in STL format
